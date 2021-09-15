@@ -4,7 +4,8 @@
 --Estudo Dirigido
 
 {-
-A function in Haskell that, given a certain 21st century date described in the format (day,month,year), gets the corresponding day of the week (without using Zeller congruence)
+A function in Haskell that, given a certain 21st century date described in the format (day,month,year), gets the corresponding day of
+the week (without using Zeller congruence)
 -}
 
 type Dia = Int
