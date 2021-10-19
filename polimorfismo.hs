@@ -4,7 +4,6 @@
 achaItem :: (Integral z) => z -> (String,z)
 achaItem 1234 = ("Oleo DoBom, 1l", 195)
 achaItem 4756 = ("Chocolate Cazzeiro, 250g" ,180)
-achaItem 3216 = ("Arroz DoBom, 5Kg", 213)
 achaItem 5823 = ("Arroz DoBom, 5Kg", 213)
 achaItem 4719 = ("Queijo Mineirim, 1Kg" , 449)
 achaItem 6832 = ("Iogurte Maravilha, 1Kg" , 499)
